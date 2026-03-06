@@ -62,19 +62,6 @@ Recall	≈99%
 F1 Score	≈99%
 
 ---
-## 🏗️ System Architecture
-User (Frontend)
-       ↓
-React + Vite Interface
-       ↓
-API Request
-       ↓
-Flask Backend (Render)
-       ↓
-Random Forest Model
-       ↓
-Predicted Crop Result
----
 ## 🛠️ Tech Stack
 Frontend
 
@@ -110,8 +97,10 @@ Backend: Render
 ---
 ## ⚙️ How to Run Locally
 Clone the Repository
-git clone https://github.com/yourusername/crop-recommendation-system.git
+git clone https://github.com/yourusername/crop-recommendation-system.git  
+
 cd crop-recommendation-system
+
 Run Backend
 cd backend
 pip install -r requirements.txt
