@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 flask
 flask-cors
 numpy
@@ -7,13 +6,3 @@ scikit-learn
 joblib
 gunicorn
 python-dotenv
-=======
-flask
-flask-cors
-numpy
-pandas
-scikit-learn
-joblib
-gunicorn
-python-dotenv
->>>>>>> a396244d505ae7dfc01380bca5638573c3c4e0fe
