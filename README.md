@@ -1,12 +1,17 @@
 # 🌱 AI Crop Recommendation System
-
----
-## Live Demo:
-https://crop-recommendation-system-2vcho6pu6.vercel.app/
-
 An AI-powered Crop Recommendation System that predicts the most suitable crop based on soil nutrients and environmental conditions. The system uses a trained Machine Learning model deployed through a Flask API backend and a React + Vite frontend.
 
 This project demonstrates the application of Machine Learning in Precision Agriculture, helping farmers choose the optimal crop for their land based on scientific data.
+
+---
+## 🚀 Live Demo
+# Frontend (Vercel)
+
+👉 https://crop-recommendation-system-2vcho6pu6.vercel.app/
+
+# Backend API (Render)
+
+👉 https://crop-recommendation-system-t44g.onrender.com
 
 ---
 ## 🚀 Features
