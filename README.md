@@ -1,13 +1,13 @@
-🌱 AI Crop Recommendation System
-
-Live Demo:
+# 🌱 AI Crop Recommendation System
+---
+## Live Demo:
 https://crop-recommendation-system-2vcho6pu6.vercel.app/
 
 An AI-powered Crop Recommendation System that predicts the most suitable crop based on soil nutrients and environmental conditions. The system uses a trained Machine Learning model deployed through a Flask API backend and a React + Vite frontend.
 
 This project demonstrates the application of Machine Learning in Precision Agriculture, helping farmers choose the optimal crop for their land based on scientific data.
-
-🚀 Features
+---
+## 🚀 Features
 
 AI-based crop prediction using environmental and soil parameters
 
@@ -22,8 +22,8 @@ Smooth UI with modern design
 Real-time prediction results
 
 Supports 22 different crop types
-
-🧠 Machine Learning Model
+---
+## 🧠 Machine Learning Model
 
 The system uses a Random Forest Classifier trained on agricultural data containing 2200 records with the following input features:
 
@@ -46,8 +46,8 @@ Rainfall
 Output
 
 Recommended crop suitable for the given conditions.
-
-📊 Model Performance
+---
+## 📊 Model Performance
 
 The trained model achieved high performance metrics during evaluation.
 
@@ -83,7 +83,8 @@ rice          1.00      0.97      0.98        30
 watermelon    1.00      1.00      1.00        30
 
 accuracy                           0.99
-🏗️ System Architecture
+---
+## 🏗️ System Architecture
 User (Frontend)
        ↓
 React + Vite Interface
@@ -95,7 +96,8 @@ Flask Backend (Render)
 Random Forest Model
        ↓
 Predicted Crop Result
-🛠️ Tech Stack
+---
+## 🛠️ Tech Stack
 Frontend
 
 React
@@ -125,8 +127,8 @@ Deployment
 Frontend: Vercel
 
 Backend: Render
-
-📂 Project Structure
+---
+## 📂 Project Structure
 crop-recommendation-system
 │
 ├── backend
@@ -141,7 +143,9 @@ crop-recommendation-system
 │        └── package.json
 │
 └── README.md
-⚙️ How to Run Locally
+
+---
+## ⚙️ How to Run Locally
 Clone the Repository
 git clone https://github.com/yourusername/crop-recommendation-system.git
 cd crop-recommendation-system
@@ -161,7 +165,9 @@ npm run dev
 Frontend runs at:
 
 http://localhost:5173
-🌍 Future Improvements
+
+---
+## 🌍 Future Improvements
 
 Integration with real-time weather APIs
 
@@ -172,8 +178,8 @@ Mobile application version
 Crop disease prediction module
 
 Fertilizer recommendation system
-
-👨‍💻 Author
+---
+## 👨‍💻 Author
 
 Konda Kristhu Raju
 AI / Machine Learning Enthusiast
@@ -183,7 +189,8 @@ https://www.linkedin.com/in/kristhuraju/
 
 GitHub
 https://github.com/rajukonda767
+---
 
-⭐ If you like this project
+## ⭐ If you like this project
 
 Give the repository a star ⭐ on GitHub to support the project.
