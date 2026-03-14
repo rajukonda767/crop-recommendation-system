@@ -74,7 +74,7 @@ const Index = () => {
 
             {/* Your Name */}
             <p>
-              Built by <span className="font-medium text-primary-foreground">Konda Kristhu Raju</span> · AI/ML Developer
+              Built by <span className="font-medium text-primary-foreground">Kondapalli Pujitha</span> · AI/ML Developer
             </p>
 
             {/* Social Links */}
@@ -82,7 +82,7 @@ const Index = () => {
 
               {/* LinkedIn */}
               <a
-                href="https://www.linkedin.com/in/kristhuraju/"
+                href="https://www.linkedin.com/in/pujitha-kondapalli-955a2b34b/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition"
@@ -93,7 +93,7 @@ const Index = () => {
 
               {/* GitHub */}
               <a
-                href="https://github.com/rajukonda767/crop-recommendation-system"
+                href="https://github.com/kondapallipujitha72"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition"
